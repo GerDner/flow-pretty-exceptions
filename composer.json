@@ -4,7 +4,7 @@
     "description": "Pretty, informative exception handler for Flow, based on Whoops.",
     "require": {
         "typo3/flow": "*",
-        "filp/whoops": "^1.1"
+        "filp/whoops": "^2.0"
     },
     "autoload": {
         "psr-4": {
